@@ -1,0 +1,16 @@
+#Thu Jun 07 17:00:33 CST 2012
+eclipse.preferences.version=1
+encoding//src/com/amaker/provider/DBHelper.java=GBK
+encoding//src/com/amaker/provider/MenuProvider.java=GBK
+encoding//src/com/amaker/provider/Menus.java=GBK
+encoding//src/com/amaker/provider/TableProvider.java=GBK
+encoding//src/com/amaker/provider/Tables.java=GBK
+encoding//src/com/amaker/util/CheckTable.java=GBK
+encoding//src/com/amaker/util/HttpUtil.java=GBK
+encoding//src/com/amaker/wlo/CheckTableActivity.java=GBK
+encoding//src/com/amaker/wlo/LoginActivity.java=GBK
+encoding//src/com/amaker/wlo/LogoutActivity.java=GBK
+encoding//src/com/amaker/wlo/MainMenuActivity.java=GBK
+encoding//src/com/amaker/wlo/OrderActivity.java=GBK
+encoding//src/com/amaker/wlo/PayActivity.java=GBK
+encoding//src/com/amaker/wlo/UpdateActivity.java=GBK
